@@ -1,4 +1,4 @@
-﻿Billboard Hot 100 Artist Scraper
+#﻿Billboard Hot 100 Artist Scraper
 This Python script is designed to scrape historical data from Wikipedia to compile a complete, alphabetized list of unique artists featured on the Billboard Year-End Hot 100 singles charts.
 
 🎯 Features
